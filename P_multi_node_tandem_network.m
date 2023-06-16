@@ -1,7 +1,6 @@
 function y=P_multi_node_tandem_network(k,R,mu,C)
 
-% k is the number of customer in the system that 
-% the tagged customer observes at her arrival
+% k is the number of customer in the system that the tagged customer observes at her arrival
 
 % R is the reward that a customer gets to join the system
 
