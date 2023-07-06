@@ -1,10 +1,20 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Queueing networks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "Cesaro"
-  given-names: "Alberto"
-title: "queueing-networks"
+  - given-names: Alberto
+    family-names: Cesaro
+repository-code: 'https://github.com/Cesi99/queueing-networks.git'
+abstract: >-
+  Equilibrium strategies for overtaking queueing networks
+  under partial information
+keywords:
+  - Queueing
+  - Equilibrium strategy
+  - Threshold
+license: MIT
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2023-07-06
-url: "https://github.com/Cesi99/queueing-networks"
+date-released: '2023-07-06'
