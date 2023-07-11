@@ -5,7 +5,7 @@
 * [Abstract of the thesis](#abstract-of-the-thesis)
 
 ## General info
-The MATLAB codes in this repository refers to my Master thesis in mathematics
+The MATLAB codes in this repository refer to my Master thesis in mathematics
 * University: Università degli studi di Padova
 * Department: Mathematics department "Tullio Levi-Civita"
 * Title: Equilibrium strategies for overtaking free queueing networks under partial information
